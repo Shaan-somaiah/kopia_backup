@@ -16,8 +16,7 @@ datasets = {
 
 datasets_to_archive   = [
     f"{dataset_root}/common",
-    f"{dataset_root}/kube_vol",
-    f"{dataset_root}/pbs_archive",
+    f"{dataset_root}/kube_vol"
 ]
 
 
